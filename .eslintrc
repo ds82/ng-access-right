@@ -1,0 +1,6 @@
+{
+  "extends": "ds82",
+  "globals": {
+    "angular": false
+  }
+}
