@@ -1,0 +1,7 @@
+.git
+.babelrc
+.eslintrc
+.travis.yml
+node_modules
+src
+
